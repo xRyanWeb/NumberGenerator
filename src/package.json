@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "electron": "^33.2.0"
+  },
+  "name": "code",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

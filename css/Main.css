@@ -7,6 +7,14 @@ main > div {
   max-width: 100%;
 }
 
+label {
+  display: grid;
+  position: relative;
+  top: 240px;
+  justify-content: center;
+  align-items: center;
+}
+
 h2 {
   text-align: center;
   position: relative;
@@ -57,6 +65,12 @@ button {
 
 aside {
   width: 100%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .container {
